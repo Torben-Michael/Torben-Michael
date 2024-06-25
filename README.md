@@ -8,18 +8,12 @@ Torben-Michael/Torben-Michael is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h3 align="center">A passionate beginner in frontend development from Germany</h3>
+<h1 align="center">Hi 👋, I'm Torben-Michael Frömke</h1>
+<h3 align="center">a passionate beginner in frontend development from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=torben-michael&label=Profile%20views&color=0e75b6&style=flat" alt="torben-michael" /> </p>
+
+- ⚡ Fun fact **Als ich diesen Code schrieb, wussten nur Gott und ich, wie er funktioniert. Jetzt weiß es nur noch Gott...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
